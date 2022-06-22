@@ -1,4 +1,4 @@
-## Olá! Eu sou Erick Luiz! 👋
+## Hi! I'm Erick Luiz! 👋
 
 - 🔭 I’m currently in career transition
 - 🌱 I’m currently learning JavaScript and NodeJS
